@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\varva\\source\\repos\\MokrousScript\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BECC1B-354B-49A5-BED2-9072FFE56227}|MokrousScript\\MokrousScript.csproj|c:\\users\\varva\\source\\repos\\mokrousscript\\mokrousscript\\script\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BECC1B-354B-49A5-BED2-9072FFE56227}|MokrousScript\\MokrousScript.csproj|solutionrelative:mokrousscript\\script\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BECC1B-354B-49A5-BED2-9072FFE56227}|MokrousScript\\MokrousScript.csproj|c:\\users\\varva\\source\\repos\\mokrousscript\\mokrousscript\\apimodels\\responcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BECC1B-354B-49A5-BED2-9072FFE56227}|MokrousScript\\MokrousScript.csproj|solutionrelative:mokrousscript\\apimodels\\responcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BECC1B-354B-49A5-BED2-9072FFE56227}|MokrousScript\\MokrousScript.csproj|c:\\users\\varva\\source\\repos\\mokrousscript\\mokrousscript\\apimodels\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BECC1B-354B-49A5-BED2-9072FFE56227}|MokrousScript\\MokrousScript.csproj|solutionrelative:mokrousscript\\apimodels\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varva\\source\\repos\\MokrousScript\\MokrousScript\\MaxmokmailIkd2Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MokrousScript\\MaxmokmailIkd2Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponceModel.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\MokrousScript\\MokrousScript\\ApiModels\\ResponceModel.cs",
+              "RelativeDocumentMoniker": "MokrousScript\\ApiModels\\ResponceModel.cs",
+              "ToolTip": "C:\\Users\\varva\\source\\repos\\MokrousScript\\MokrousScript\\ApiModels\\ResponceModel.cs",
+              "RelativeToolTip": "MokrousScript\\ApiModels\\ResponceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:22:00.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\MokrousScript\\MokrousScript\\ApiModels\\RequestModel.cs",
+              "RelativeDocumentMoniker": "MokrousScript\\ApiModels\\RequestModel.cs",
+              "ToolTip": "C:\\Users\\varva\\source\\repos\\MokrousScript\\MokrousScript\\ApiModels\\RequestModel.cs",
+              "RelativeToolTip": "MokrousScript\\ApiModels\\RequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:21:57.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaxmokmailIkd2Context.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\MokrousScript\\MokrousScript\\MaxmokmailIkd2Context.cs",
+              "RelativeDocumentMoniker": "MokrousScript\\MaxmokmailIkd2Context.cs",
+              "ToolTip": "C:\\Users\\varva\\source\\repos\\MokrousScript\\MokrousScript\\MaxmokmailIkd2Context.cs",
+              "RelativeToolTip": "MokrousScript\\MaxmokmailIkd2Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:14:57.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\MokrousScript\\MokrousScript\\Script\\Program.cs",
+              "RelativeDocumentMoniker": "MokrousScript\\Script\\Program.cs",
+              "ToolTip": "C:\\Users\\varva\\source\\repos\\MokrousScript\\MokrousScript\\Script\\Program.cs",
+              "RelativeToolTip": "MokrousScript\\Script\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:47:03.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
